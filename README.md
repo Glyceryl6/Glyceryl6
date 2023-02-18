@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:-->
 
-- ✨ 本人是一名Minecraft玩家，喜欢编程
+- ✨ 本人是一名Minecraft玩家，同时也是一名模组开发者
 - 🌱 平时喜欢开发一些脑洞大开的MC小模组
 - 👯 虽然有技术，但是缺少灵感，不太会贴图创作
 - 😀 如果有什么好的想法，可以随时联系我
 - 💬 或者有什么好的意见，也可以随时向我反馈
-- 📖 目前因为学业问题，所以不一定能够及时回复消息
+- 📖 目前由于学业繁忙，所以不一定能够及时回复消息
 - 📫 联系方式：QQ 494192175，邮箱 494192175@qq.com
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Glyceryl6&show_icons=true&include_all_commits=true)](https://github.com/Glyceryl6/github-readme-stats)

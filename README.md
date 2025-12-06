@@ -14,8 +14,8 @@ Here are some ideas to get you started:-->
 - 📫 联系方式：QQ 494192175，邮箱 494192175@qq.com
 - 🔔 也可以在B站找我：https://space.bilibili.com/26572688
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Glyceryl6&show_icons=true&include_all_commits=true)](https://github.com/Glyceryl6/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glyceryl6&layout=compact)](https://github.com/Glyceryl6/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Glyceryl6&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glyceryl6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/Glyceryl6/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Glyceryl6/github-stats/master/generated/overview.svg#gh-light-mode-only)

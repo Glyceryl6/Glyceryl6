@@ -11,8 +11,6 @@ Here are some ideas to get you started:-->
 - 😀 如果有什么好的想法，可以随时联系我
 - 💬 或者有什么好的意见，也可以随时向我反馈
 - 📖 除了写MC模组之外，还喜欢写一些可能有点用的小工具
-- 📫 联系方式：QQ 494192175，邮箱 494192175@qq.com
-- 🔔 也可以在B站找我：https://space.bilibili.com/26572688
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Glyceryl6&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glyceryl6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
